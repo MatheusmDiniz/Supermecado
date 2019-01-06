@@ -1,0 +1,8 @@
+{
+  "name": "supermercado",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "cf0c50f6"
+}
